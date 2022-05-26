@@ -1,5 +1,5 @@
 # ArdLocate2.0
- Arduino DIY GPS for car, boat, bike, etc. Controlled via text messages
+ Arduino DIY GPS for car, boat, bike, etc. controlled via text messages by phone.
  
  Features:
  - Turn car off by cutting power to fuel pump
